@@ -25,7 +25,6 @@ h3 {
   font-size: 20px;
   font-weight: 400;
   letter-spacing: -0.7px;
-  word-spacing: -4px;
 }
 
 header {
@@ -103,7 +102,6 @@ input:focus {
 
 .button {
   background-color: #db0510;
-  word-spacing: -4px;
 }
 
 a {
@@ -247,7 +245,6 @@ footer {
   align-items: flex-start;
   width: 60%;
   font-size: 18px;
-  word-spacing: -2px;
   margin-top: 50px;
   padding: 120px 70px;
   line-height: 1.4;
